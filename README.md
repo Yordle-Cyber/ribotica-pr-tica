@@ -1,2 +1,2 @@
-# ribotica-pr-tica
+# robotica-prática
 projeto 2
